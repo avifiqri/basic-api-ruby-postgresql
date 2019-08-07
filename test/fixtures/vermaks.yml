@@ -1,0 +1,31 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  namejenis: MyString
+  jenis2: MyString
+  jenis3: MyString
+  jenis4: MyString
+  jenis5: MyString
+  jenis6: MyString
+  harga1: MyString
+  harga2: 1
+  harga3: 1
+  harga4: 1
+  harga5: 1
+  harga6: 1
+  total: 1
+
+two:
+  namejenis: MyString
+  jenis2: MyString
+  jenis3: MyString
+  jenis4: MyString
+  jenis5: MyString
+  jenis6: MyString
+  harga1: MyString
+  harga2: 1
+  harga3: 1
+  harga4: 1
+  harga5: 1
+  harga6: 1
+  total: 1

@@ -1,0 +1,4 @@
+class Pelanggan < ApplicationRecord
+    
+    
+end
